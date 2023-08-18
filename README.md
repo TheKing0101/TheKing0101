@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning C#, SQL and C++
 - 💞️ I’m looking to collaborate on my projects
-- 📫 How to reach me?  Send me a mensage!!
+- 📫 CodeCrafter@gmail.com
 
 <!---
 TheKing0101/TheKing0101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
